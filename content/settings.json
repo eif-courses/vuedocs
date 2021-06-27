@@ -1,0 +1,10 @@
+{
+  "title": "Vue Docs",
+  "url": "http://localhost",
+  "logo": {
+    "light": "/vue_logo.png",
+    "dark": "/vue_logo.png"
+  },
+  "github": "eif-courses",
+  "twitter": "@MGzegozevskis"
+}
